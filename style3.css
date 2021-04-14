@@ -1,0 +1,57 @@
+form{
+    background-color: #c7fce2;
+    border: solid 0.5px #4ef277;
+    margin: auto;
+    min-height:500px;
+    width: 1000px;
+    padding: 30px;
+
+}
+
+.inp{
+    height: 40px;
+    width: 400px;
+    border: solid 0.1px #4ef277;
+    border-radius: 5px;
+}
+
+.txtarea{
+    width: 400px;
+    height: 100px;
+    border: solid 0.1px #4ef277;
+    border-radius: 5px;
+}
+.div1{
+    position: absolute;
+    top: 60px;
+    left: 750px;
+
+}
+.div2{
+    position: absolute;
+    top: 170px;
+    left: 750px;
+}
+.div3{
+    position: absolute;
+    top: 320px;
+    left: 750px;
+}
+
+hr{
+    height: 0.5px;
+    background-color: #4ef277;
+}
+
+.btn{
+    height: 40px;   
+    width: 200px;
+    background-color: #4ef277;
+    border: solid 0.1px rgb(121, 121, 121);
+    border-radius: 5px;
+    margin: auto;
+    position: absolute;
+    top:500px;
+    left: 700px;
+    color: white;
+}

@@ -1,0 +1,36 @@
+form{
+    background-color: rgb(212, 236, 241);
+    width: 168px;
+    min-height: 200px;
+    border: solid black 1px;
+    margin: auto;
+    padding: 7px;
+}
+.but1{
+    width: 169px;
+    height: 25px;
+    background-color: salmon;
+    border: unset;
+    border-radius: 3px;
+    color: white;
+    position: relative;
+    top: 150px;
+}
+.p{
+    text-align: center;
+    position: relative;
+    top: -10px;
+}
+.inp1{
+    border: solid 0.5px silver;
+    border-radius: 3px;
+    position: relative;
+    top: 20%;
+}
+.inp2{
+    border: solid 0.5px silver;
+    border-radius: 3px;
+    position: relative;
+    top: 30%;
+}
+
